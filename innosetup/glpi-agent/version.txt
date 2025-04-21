@@ -1,0 +1,2 @@
+GLPI Agent: GLPI-Agent-1.14-x64.msi
+Date: 2025-04-21
