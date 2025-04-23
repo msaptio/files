@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405.08 414.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2f4057;
+      }
+
+      .cls-2 {
+        fill: #fffdf9;
+        font-family: Ethnocentric-Regular, Ethnocentric;
+        font-size: 94px;
+        letter-spacing: .1em;
+      }
+
+      .cls-3 {
+        fill: #5bc4b9;
+      }
+
+      .cls-4 {
+        fill: #1b2a41;
+      }
+    </style>
+  </defs>
+  <g id="MS_Aptio_A" data-name="MS Aptio A">
+    <g>
+      <rect class="cls-1" x="313.92" y=".23" width="91.16" height="305.17"/>
+      <polygon class="cls-3" points="302.61 204.34 213.44 204.34 141.44 286.58 230.61 286.58 302.61 204.34"/>
+      <path class="cls-1" d="M232.42,17.98L35.61,244.39,0,285.3s26.96,64.56,105.8,20.11l196.82-226.41V.23s-42.72-3.59-70.19,17.75Z"/>
+      <rect class="cls-4" y="326.38" width="405.08" height="64.41" rx="23.87" ry="23.87"/>
+      <text class="cls-2" transform="translate(101.67 390.3)"><tspan x="0" y="0">MS</tspan></text>
+    </g>
+  </g>
+</svg>

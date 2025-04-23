@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1222.57 498.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2f4057;
+      }
+
+      .cls-2 {
+        fill: #fffdf9;
+        font-family: Ethnocentric-Regular, Ethnocentric;
+        font-size: 94px;
+        letter-spacing: .1em;
+      }
+
+      .cls-3 {
+        fill: #5bc4b9;
+      }
+
+      .cls-4 {
+        fill: #1b2a41;
+      }
+
+      .cls-5 {
+        fill: #010101;
+        font-family: Anta-Regular, Anta;
+        font-size: 450px;
+      }
+    </style>
+  </defs>
+  <g id="MS_Aptio_Black" data-name="MS Aptio Black">
+    <g>
+      <rect class="cls-1" x="313.92" y="75.47" width="91.16" height="305.17"/>
+      <polygon class="cls-3" points="302.61 279.58 213.44 279.58 141.44 361.82 230.61 361.82 302.61 279.58"/>
+      <path class="cls-1" d="M232.42,93.22L35.61,319.63,0,360.54s26.96,64.56,105.8,20.11l196.82-226.41v-78.76s-42.72-3.59-70.19,17.75Z"/>
+      <text id="Aptio_Black" data-name="Aptio Black" class="cls-5" transform="translate(423.39 381.23)"><tspan x="0" y="0">ptio</tspan></text>
+      <circle class="cls-3" cx="909.99" cy="91.79" r="28.73"/>
+      <rect class="cls-4" x="0" y="401.62" width="405.08" height="64.41" rx="23.87" ry="23.87"/>
+      <text class="cls-2" transform="translate(101.67 465.54)"><tspan x="0" y="0">MS</tspan></text>
+    </g>
+  </g>
+</svg>
